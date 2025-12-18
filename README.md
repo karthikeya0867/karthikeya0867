@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Sai</h1>
+<h1 align="center">Hey there 👋, I'm Karthikeya Pandravada</h1>
 <h3 align="center">I build things that sometimes work... eventually 😅 | Java | Spring Boot | React | DSA Enthusiast</h3>
 
 ---
