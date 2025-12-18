@@ -55,15 +55,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)
 
----
-
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikeya0867&show_icons=true&theme=tokyonight" alt="Sai's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeya0867&theme=tokyonight" alt="Sai's GitHub streak" width="48%" />
-</p>
-
----
 
 ### 🧩 LeetCode & Problem Solving  
 <p align="center">
